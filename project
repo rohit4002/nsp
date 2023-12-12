@@ -1,0 +1,25 @@
+<div style="text-align:center; margin-top:40px;"><img src="logo.svg"></div>
+<div style="text-align:center; margin-top:40px;">
+<a style="padding-right: 20px;" href="home.html">Home</a>
+<a style="padding-right: 20px;"href="about.html">About</a>
+<a style="padding-right: 20px;" href="service.html">Services</a>
+</div>
+
+<h1 style="font-size:50px; text-align:center;" > A new adventure in Ice cream and Sweets!!!</h1>
+
+<p style="font-size:20px; text-align:center;line-height:30px;margin-bottom: 50px;
+">Desserts like sweets and ice cream are irrestible treats that bring joy and delight to our taste buds.<br>From creamy, indulgent ice  cream flavorsto decadent, melt-in-your-mouth sweets,these desserts are sure to satisfy any sweet tooth. <br> Whether you're craving a classic scoop of vanilla ice cream or a rich, chocolately dessert,there's something for everyone to enjoy.<br>Dive into a world of sweetness and indulge in the delightful flavors of these deletable treats! </p>
+<div style="text-align:center;"><a style="font-size:20px;background-color:red;
+padding: 15px 35px 15px 35px; color:white; "href=" https://www.google.com/"> Read
+more </a></div>
+
+
+<hr style="width: 60;">
+<h1 style="font-size:50px; text-align:center;" >Our Core Variety </h1>
+<div style="text-align:center;">
+<img style="width: 40%;" src="sweets.jpeg">
+<img style="width: 40%;" src="icecream.jpg">
+
+
+<video src="yourvideo.mp4" controls/>
+</div>
